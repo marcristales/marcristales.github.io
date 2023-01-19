@@ -1,0 +1,17 @@
+    /* background color */
+    body {
+      background-color: #F5A9A9; 
+    }
+    /* header */
+    h1 {
+      color: #8B0000;
+      text-align: center;
+      font-size: 3em;
+    }
+    /* content */
+    p {
+      color: #458B00; 
+      font-size: 1.5em; 
+      text-align: justify; 
+    }
+

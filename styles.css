@@ -3,25 +3,26 @@
       background-color: #F5A9A9; 
     }
     /* header */
-    h1 {
+    .header {
       color: #8B0000;
+      background-color: #ff6e6e;
       text-align: center;
       font-size: 3em;
     }
     /* content */
-    p {
+    .container {
       color: #458B00; 
       font-size: 1.5em; 
       text-align: justify; 
     }
     ul {
-      list-style-type: none; /* Removes bullet points from the list */
-      margin: 0; /* Removes margin from the list */
-      padding: 0; /* Removes padding from the list */
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
     }
 
     li {
-      display: inline-block; /* Makes the list items display in a line */
-      margin-right: 10px; /* Adds a margin to the right of the list items */
+      display: inline-block;
+      margin-right: 10px;
     }
 
